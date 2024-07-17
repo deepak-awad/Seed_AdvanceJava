@@ -18,7 +18,7 @@ public class JDBCConnection1 {
 			int result  = stmt.executeUpdate(sql);
 			
 	            if (result > 0) 
-	                System.out.println("successfully inserted"); 
+	                System.out.println("successfully inserted");
 	  
 	            else
 	                System.out.println( 
