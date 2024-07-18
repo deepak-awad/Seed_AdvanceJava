@@ -2,6 +2,8 @@ package Day3;
 import java.sql.*;
 import java.util.Scanner;
 
+/*** ResultSet Example ***/
+
 public class ResultSetDynamicExample {
 	
 	public static void main(String[] args) throws ClassNotFoundException, SQLException 
